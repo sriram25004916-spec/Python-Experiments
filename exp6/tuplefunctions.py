@@ -1,0 +1,12 @@
+t=(10,20,30,20,40)
+print("original tuple",t)
+print("length",len(t))
+print("max value",max(t))
+print("min value",min(t))
+print("sum",sum(t))
+print("count of 20:", t.count(20))
+print("index of 20:", t.index(20))
+print("element at index 0", t[0])
+
+print("tuple in reverse", t[::-1])
+print("tuple slicing", t[1:4])
