@@ -1,0 +1,21 @@
+Start
+Import the regular expression module re.
+Read a date input string from the user.
+Define the regular expression pattern ^\d{2}/\d{2}/\d{4}$ for date validation.
+Validate the input string against the pattern using the re.fullmatch() method.
+Check the validation result:
+If the input fully matches the pattern, display "given valid date".
+Otherwise, display "invalid".
+Stop
+
+
+Start
+Import the regular expression module re.
+Read an email or mobile number input string from the user.
+Define the regex pattern email_pattern to validate email addresses.
+Define the regex pattern mobile_pattern to validate 10-digit mobile numbers.
+Check the input string:
+If it fully matches email_pattern, display "Valid Email".
+Else if it fully matches mobile_pattern, display "Valid Mobile Number".
+Otherwise, display "invalid".
+Stop
