@@ -1,0 +1,16 @@
+Start
+Create a dictionary employee containing name, age, department, id, criminal background, and father occupation.
+Display the dictionary.
+Display the value of the "name" key.
+Add a new key "working days" with the value 27 to the dictionary.
+Display the updated dictionary.
+Update the value of the "age" key to 28.
+Display the updated age.
+Delete the "working days" key from the dictionary.
+Display the dictionary again.
+Find and display all the keys of the dictionary.
+Find and display all the values of the dictionary.
+Find and display all the items of the dictionary.
+Check and display the value for the key "name" using the get method.
+Check and display the value for the key "mother" using the get method.
+Stop
