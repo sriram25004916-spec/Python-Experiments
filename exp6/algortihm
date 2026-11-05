@@ -1,0 +1,13 @@
+Start
+Create a tuple t containing 10, 20, 30, 20, 40.
+Display the original tuple.
+Find and display the length of the tuple.
+Find and display the maximum value.
+Find and display the minimum value.
+Calculate and display the sum of all elements.
+Find and display the count of 20.
+Find and display the index of 20.
+Display the element at index 0.
+Reverse the tuple using slicing and display it.
+Slice the tuple from index 1 to 4 and display it.
+Stop
