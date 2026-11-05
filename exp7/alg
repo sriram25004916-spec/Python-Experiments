@@ -1,0 +1,47 @@
+Start
+Define a base class charge.
+Read the user's name.
+Read the user's phone number.
+Define a method chooseplan() inside charge to display plan options and read the user's choice.
+Check the user's choice:
+If choice is 1, display "$99 Chosen. Gareeb Insaan".
+Else if choice is 2, display "$299 Chosen. Dengue Class".
+Else if choice is 3, display "$499 Chosen. Ameer Insaan".
+Otherwise, display "Wrong Input. Gawar Insaan".
+Define a method shreesha() inside charge to display "Majestic Shreesha".
+Create an object gooseberry for the class charge.
+Define another base class recharge.
+Define a method ch() inside recharge to display "Dengue Dengue".
+Define a derived class chargere that inherits from both charge and recharge.
+Define a method chr() inside chargere to display "Sooraj bhai mast nahi hain".
+Create an object virus for the derived class chargere.
+Call the chooseplan() method using the virus object.
+Call the ch() method using the virus object.
+Call the shreesha() method using the virus object.
+Call the chr() method using the virus object.
+Stop
+
+
+Start
+Define a class renuka.
+Define a method dispo() inside renuka that accepts two parameters, a and b.
+Calculate the sum of a and b, and store the result in a variable s1.
+Display the word "addition" along with the value of s1.
+Create an object bja1 for the class renuka.
+Call the dispo() method using the bja1 object with arguments 5 and 6.
+Call the dispo() method using the bja1 object with arguments 4 and 7.
+Call the dispo() method using the bja1 object with arguments 8 and 9.
+Stop
+
+
+
+Start
+Define a base class car.
+Define a method four() inside car to display "4 wheels".
+Define a derived class bike that inherits from car.
+Define a method four() inside bike to override the parent class method.
+Inside the four() method of bike, call the parent class's four() method using the super() function.
+Display "2 wheels" after calling the parent method.
+Create an object obj1 for the derived class bike.
+Call the four() method using the obj1 object.
+Stop
