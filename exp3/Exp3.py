@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  2 07:56:48 2026
 
-@author: user
-"""
 
 s="Hello Python"
 print("original string",s)
